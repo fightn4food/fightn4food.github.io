@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "fightn4food",
-    "repositoryName": "fightn4food.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"fightn4food","repositoryName":"fightn4food.github.io","branch":"master"},"site":{"title":"We're a little hungry","description":"Most of us are just fighting for food.","postsPerPage":"3","url":"http://fightn4food.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://fightn4food.github.io/themes/Casper"}}
