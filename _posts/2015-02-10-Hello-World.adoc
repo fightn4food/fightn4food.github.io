@@ -1,3 +1,6 @@
-= Hello
+= Hello World
 
-This is my post
+Saw this Hubpress thing on Product Hunt yesterday like so many others and just wanted to give it a shot.
+I mean who wouldn't want a free blogging platform hosted on GitHub.
+No one - that's who. 
+
